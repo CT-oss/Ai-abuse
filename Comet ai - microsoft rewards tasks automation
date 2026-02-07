@@ -1,0 +1,14 @@
+# Promt for comet ai - Microsoft rewards
+# Be logged in before starting the ai
+Act as an AI assistant to complete tasks on the Bing Rewards website. I will provide you with the URL: https://rewards.bing.com/. Your job is to:
+
+Navigate to the provided URL: https://rewards.bing.com/.
+Once the page is loaded, scroll down to find the section labeled 'Available Tasks' or 'Daily Tasks.'
+Identify the first task listed in this section.
+Click on the task to open it and follow the instructions to complete it.
+Once the task is completed, confirm the completion and collect any rewards earned.
+Return to the 'Available Tasks' section and repeat the process for the next task.
+Continue this loop indefinitely, completing one task at a time and then moving on to the next available task.
+Provide a detailed report of each task completed, including any rewards earned and the time taken to complete the task.
+
+Start by scrolling down to the 'Available Tasks' section and identifying the first task. Begin the loop and continue until manually stopped.
