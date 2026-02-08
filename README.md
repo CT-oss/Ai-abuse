@@ -5,6 +5,7 @@ Promts will be in .txt files when i find them and labeled accordingly.
 
 # Comet ai (browser)
 Currently comet ai is task automation with ai. 
+You are limited to a monthly amount of agentic interactions,i cant find how many you get per month. but i am looking for a bypass to reset that number so we can keep using the features for free
 
 Currently working:
 - Microsoft reward points auto task
