@@ -8,6 +8,7 @@ Currently comet ai is task automation with ai.
 
 Currently working:
 - Microsoft reward points auto task
+- Have a working bypass for survey sites (private), optimising. trying to make it loop
 
 # Openclaw (local ai)
 100% has some interesting uses, however the fact that it has full access and local is a huge security risk. This ai could probably do what comet ai can, better and for free. Until more security can be put in place i will not be running this ai.
